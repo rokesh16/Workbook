@@ -1,2 +1,0 @@
-# What is Ragas?
-Ragas serves as a framework designed to assess and evaluate Retrieval Augmented Generation (RAG) pipelines. RAG refers to a category of language model applications that enhance their context using external data. While there are existing tools and frameworks for constructing these pipelines, evaluating and quantifying their performance can be challenging. Ragas (RAG Assessment) addresses this need by providing a solution for evaluating RAG pipelines.
